@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ADemo_Category"
-  s.version      = "4"
+  s.version      = "2"
   s.summary      = "ADemo_Category."
 
   # This description is used to generate tags and improve search results.
@@ -136,7 +136,5 @@ Pod::Spec.new do |s|
   # s.dependency "BLNetworking"
   # s.dependency "BLAPIManagers"
   # s.dependency "BLMediator"
-
-  s.dependency "CTMediator"
 
 end
